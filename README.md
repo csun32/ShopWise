@@ -2,8 +2,9 @@
 Contributors: Andy Sun, Kevin Feng, and Kevin Luu
 
 Streamlit App Link Click [here](https://jtfeng72-shopwise-shopwise-home-ixje56.streamlit.app/Shopping_List)
+*Due to inactivity, the application might need to be reactivated.
 
-Curretly this version has 
+Currently this version has 
   ## 1. Variety of Foods
   ## 2. Shopping list
   ## 3. Waste Not
