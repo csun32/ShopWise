@@ -1,7 +1,7 @@
 # Northwestern Spring 2023 Capstone Project (ShopWise)
 Contributors: Andy Sun, Kevin Feng, and Kevin Luu
 
-Streamlit App Link: https://jtfeng72-shopwise-shopwise-home-ixje56.streamlit.app/Shopping_List
+Streamlit App Link Click [here](https://jtfeng72-shopwise-shopwise-home-ixje56.streamlit.app/Shopping_List)
 
 Curretly this version has 
   ## 1. Variety of Foods
