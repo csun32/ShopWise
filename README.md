@@ -6,7 +6,7 @@ Streamlit App Link Click [here](https://jtfeng72-shopwise-shopwise-home-ixje56.s
 *Due to inactivity, the application might need to be reactivated.
 
 ## Methodology/Code
-The application uses the Streamlit platform to create a front-end interface using only Python code. The code is separated corresponding to the sections in the the web application. All codes can be found in the [pages folder](https://github.com/jtfeng72/ShopWise/tree/master/pages)
+The application uses the Streamlit platform to create a front-end interface using only Python code. The code is separated corresponding to the sections in the the web application. All the code files can be found in the [pages folder](https://github.com/jtfeng72/ShopWise/tree/master/pages)
 
 The Demo codes explain how some of the code methodologies of the application
 
