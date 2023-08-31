@@ -12,5 +12,7 @@ The Demo codes explain how some of the code methodologies of the application
 
 ## Questions/Feedback
 Email Andy Sun at andy.csun32@gmail.com
+
 Email Kevin Feng at jtfeng72@gmail.com
+
 Email Kevin Luu at kluuking@gmail.com
