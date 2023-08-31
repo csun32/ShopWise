@@ -2,13 +2,15 @@
 Contributors: Andy Sun, Kevin Feng, and Kevin Luu
 
 Streamlit App Link Click [here](https://jtfeng72-shopwise-shopwise-home-ixje56.streamlit.app/Shopping_List)
+
 *Due to inactivity, the application might need to be reactivated.
 
-Currently this version has 
-  ## 1. Variety of Foods
-  ## 2. Shopping list
-  ## 3. Waste Not
-  ## 4. Sustainable Amount
-  ## 5. Recommends Food
-  ## 6. CO2 Tracking
-  ## 7. Convenience
+## Methodology/Code
+The application uses the Streamlit platform to create a front-end interface using only Python code. The code is separated corresponding to the sections in the the web application. All codes can be found in the Page folder
+
+The Demo codes explain how some of the code methodologies of the application
+
+## Questions/Feedback
+Email Andy Sun at andy.csun32@gmail.com
+Email Kevin Feng at jtfeng72@gmail.com
+Email Kevin Luu at kluuking@gmail.com
